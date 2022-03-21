@@ -18,7 +18,7 @@ There's a task inside the project (TestLib) written in ST for testing purposes.
 
 
 ## 4. Credits
-@matheuskkr is cowriter of this project/library.
+https://github.com/matheuskkr is cowriter of this project/library.
 
 
 ## 5. How to contribute / To do's
